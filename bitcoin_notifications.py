@@ -7,7 +7,6 @@ import pywhatkit
 # !!in terminal xhost + if some error
 # !!the transmitted text is written in qwerty even if your keyboard is
 # in azerty no emoji
-# you need to open whatsapp web and connect you before
 
 load_dotenv()
 
